@@ -8,8 +8,7 @@
 
 **Используемые библиотеки**
 
-pandas, matplotlib, seaborn, plotly, numpy, scipy, math, statsmodels, os
-
+pandas, matplotlib, seaborn, plotly, numpy, scipy
 **Статус проекта**
 
 Завершен
